@@ -1,4 +1,3 @@
-/Foundation.Api.sln
 # IDE
 .idea/
 .vscode/
@@ -15,3 +14,7 @@ appsettings.Development.json
 # Logs
 *.log
 logs/
+
+# macOS
+.DS_Store
+**/.DS_Store
