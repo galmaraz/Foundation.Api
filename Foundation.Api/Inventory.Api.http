@@ -1,0 +1,7 @@
+@Fundacion.Api_HostAddress = http://localhost:5001
+
+### Probar swagger
+GET {{Fundacion.Api_HostAddress}}/swagger
+Accept: application/json
+
+###
