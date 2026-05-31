@@ -1,0 +1,17 @@
+/Foundation.Api.sln
+# IDE
+.idea/
+.vscode/
+
+# .NET
+bin/
+obj/
+*.user
+
+# Secrets y configs locales
+appsettings.Development.json
+**/private/
+
+# Logs
+*.log
+logs/
